@@ -5117,6 +5117,7 @@ brew.sh
 brewmp.com
 briantreepayments.net
 briantreepayments.tv
+briarproject.org
 bricoltech.ac.uk
 bridgce.ac.uk
 bridge-studio.co.uk
@@ -6265,6 +6266,7 @@ chat.openai.com
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatnook.com
