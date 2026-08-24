@@ -13743,6 +13743,7 @@ historicalpageants.ac.uk
 historicbooks.ac.uk
 history-uk.ac.uk
 history.ac.uk
+historylines.net
 historyofdota.com
 historyofdota.net
 historyofdota.org
@@ -16737,6 +16738,7 @@ kitts.ac.uk
 kiwi
 kiwi.kz
 kiwibrowser.com
+kiwix.org
 kk-whys.co.jp
 kk.stream
 kkbox.com
@@ -18435,6 +18437,7 @@ mcdonaldsapps.com
 mcdonaldsarabia.com
 mcdonaldsparties.co.nz
 mcdonaldsparties.com.au
+mceindex.com
 mcfog.com
 mcisco.com
 mcls.ac.uk
