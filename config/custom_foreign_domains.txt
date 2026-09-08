@@ -1,3 +1,4 @@
+hub.docker.com
 www.netflix.com
 openai.com
 x.com
