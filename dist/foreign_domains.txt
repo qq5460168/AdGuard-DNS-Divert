@@ -1950,15 +1950,12 @@ apexlegends.com
 apexprint.com.hk
 aphe.ac.uk
 api-extractor.com
-api-gl.lbkrs.com
 api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.futunn.com
 api.githubcopilot.com
 api.groq.com
-api.lbkrs.com
 api.linksalpha.com
 api.mixpanel.com
 api.moomoobull.com
@@ -1973,7 +1970,6 @@ api.steampowered.com
 api.together.xyz
 api.viu.now.com
 api.waqi.info
-api5.futunn.com
 apiary.io
 apibay.org
 apidocs.linksalpha.com
@@ -6070,7 +6066,6 @@ cdn.ac.uk
 cdn.angruo.com
 cdn.arstechnica.net
 cdn.assets.lfpcontent.com
-cdn.futustatic.com
 cdn.helixstudios.net
 cdn.js7k.com
 cdn.jwplayer.com
@@ -8648,7 +8643,6 @@ download.aircrack-ng.org
 download.cnet.com
 download.com
 download.dappcdn.com
-download.futunn.com
 download.qatp1.net
 download.qcpp1.net
 download.qpdp1.net
@@ -21785,12 +21779,8 @@ openaiapi-site.azureedge.net
 openallweb.com
 openamt.com
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
-openapi-trade.longbridge.com
-openapi.futunn.com
 openapi.longbridge.cn
-openapi.longbridge.com
 openapiplatform.com
 openapiservice.com
 openart.ai
@@ -23824,14 +23814,13 @@ qso.ac.uk
 qstatus.com
 qt-project.org
 qt.io
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtel
 qtrac.eu
 qtweeter.com
 quadram.ac.uk
 quadraminstitute.ac.uk
 quadrat.ac.uk
+quakemachinex.com
 qualcomm-email.com
 qualcomm.co.id
 qualcomm.co.in
@@ -27162,7 +27151,6 @@ supjav.com
 suppig.net
 supply-chain.ac.uk
 supplybestjerseys.com
-support.futunn.com
 supportfacebook.com
 supremacy.com
 supremacy.net
@@ -28461,8 +28449,6 @@ trac.ac.uk
 tracfone.com
 tracingnetworks.ac.uk
 tracking-location.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradevip1.com
 tradingview.com
