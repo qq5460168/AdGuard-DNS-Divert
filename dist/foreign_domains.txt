@@ -7143,6 +7143,7 @@ conscrypt.org
 conservatoiresuk.ac.uk
 consilience.ac.uk
 console.groq.com
+console.typesafe.ai
 constitutionalism.solutions
 constructware.com
 consul.io
@@ -11764,6 +11765,7 @@ g0v.social
 g1d1goob.xyz
 g6hentai.com
 ga
+ga.jspm.io
 gab.com
 gabia.net
 gabocorp.com
