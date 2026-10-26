@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-25 09:52:12
+# 自动生成于 2026-10-26 09:54:03
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 32994 个域名，逐条规则）
+# 国外域名规则（共 33002 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -108,6 +108,7 @@ https://1.12.12.12/dns-query
 [/123-hp.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123av.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123av.me/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/123av.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123bin.cc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123dapp.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/123dappipad.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -16738,6 +16739,7 @@ https://1.12.12.12/dns-query
 [/kilmeadeandfriends.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimchi.tv/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimogirl.cc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/kimootoko.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimosex.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kimy.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/kindgirls.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19240,6 +19242,7 @@ https://1.12.12.12/dns-query
 [/miniwindsor.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/miniworkshop.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/miniyaletown.ca/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/minkch.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minnano-av.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minneapolisbmw.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/minneapolisbmw.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19635,6 +19638,7 @@ https://1.12.12.12/dns-query
 [/movidius.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movidius.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movie-erog.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/movie.eroterest.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/movie1000.xyz/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moviefap.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moviepost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -21027,7 +21031,9 @@ https://1.12.12.12/dns-query
 [/nixos.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/niziero.info/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njactb.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/njav.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njav.tv/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/njavtv.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njncscotlandscolleges.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/njuice.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nkc.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -22958,6 +22964,7 @@ https://1.12.12.12/dns-query
 [/pn/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pnas.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pnc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/po-kaki-to.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/po18.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/po2b.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pobieramy.top/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -33023,6 +33030,7 @@ https://1.12.12.12/dns-query
 [/zorglist.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zorrovpn.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zozotown.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/zozovideo.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zpn.im/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zqqpwz.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/zsh.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
