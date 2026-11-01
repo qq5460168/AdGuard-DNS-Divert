@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-31 10:51:56
+# 自动生成于 2026-11-01 10:44:16
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33002 个域名，逐条规则）
+# 国外域名规则（共 33006 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -1946,6 +1946,7 @@ https://1.12.12.12/dns-query
 [/anthemgame.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/anthemthegame.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/anthonycalzadilla.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/anthropic.auth0.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/anthropic.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/anthropology.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/anti1984.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -5348,6 +5349,7 @@ https://1.12.12.12/dns-query
 [/bsixbrookehousesixthformcollege.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bsixcollege.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bsky.app/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/bsky.chat/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bsky.network/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bsky.social/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bsls.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -6788,7 +6790,9 @@ https://1.12.12.12/dns-query
 [/classics.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/classymomsex.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/claude.ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/claude.app/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/claude.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/claudemcpcontent.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/claudeusercontent.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/clb.org.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/clc-london.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io

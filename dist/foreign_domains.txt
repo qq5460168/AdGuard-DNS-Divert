@@ -1878,6 +1878,7 @@ antf.ac.uk
 anthemgame.com
 anthemthegame.com
 anthonycalzadilla.com
+anthropic.auth0.com
 anthropic.com
 anthropology.ac.uk
 anti1984.com
@@ -5284,6 +5285,7 @@ bsixbrookehouse.ac.uk
 bsixbrookehousesixthformcollege.ac.uk
 bsixcollege.ac.uk
 bsky.app
+bsky.chat
 bsky.network
 bsky.social
 bsls.ac.uk
@@ -6724,7 +6726,9 @@ classicnike.com
 classics.ac.uk
 classymomsex.com
 claude.ai
+claude.app
 claude.com
+claudemcpcontent.com
 claudeusercontent.com
 clb.org.hk
 clc-london.ac.uk
