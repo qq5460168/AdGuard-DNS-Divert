@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-10-31 11:22:01
+# 自动生成于 2026-11-01 11:21:54
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33000 个域名，逐条规则）
+# 国外域名规则（共 33004 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -1950,6 +1950,7 @@ https://dns.alidns.com/dns-query
 [/anthemgame.com/]127.0.0.1:7874
 [/anthemthegame.com/]127.0.0.1:7874
 [/anthonycalzadilla.com/]127.0.0.1:7874
+[/anthropic.auth0.com/]127.0.0.1:7874
 [/anthropic.com/]127.0.0.1:7874
 [/anthropology.ac.uk/]127.0.0.1:7874
 [/anti1984.com/]127.0.0.1:7874
@@ -5352,6 +5353,7 @@ https://dns.alidns.com/dns-query
 [/bsixbrookehousesixthformcollege.ac.uk/]127.0.0.1:7874
 [/bsixcollege.ac.uk/]127.0.0.1:7874
 [/bsky.app/]127.0.0.1:7874
+[/bsky.chat/]127.0.0.1:7874
 [/bsky.network/]127.0.0.1:7874
 [/bsky.social/]127.0.0.1:7874
 [/bsls.ac.uk/]127.0.0.1:7874
@@ -6792,7 +6794,9 @@ https://dns.alidns.com/dns-query
 [/classics.ac.uk/]127.0.0.1:7874
 [/classymomsex.com/]127.0.0.1:7874
 [/claude.ai/]127.0.0.1:7874
+[/claude.app/]127.0.0.1:7874
 [/claude.com/]127.0.0.1:7874
+[/claudemcpcontent.com/]127.0.0.1:7874
 [/claudeusercontent.com/]127.0.0.1:7874
 [/clb.org.hk/]127.0.0.1:7874
 [/clc-london.ac.uk/]127.0.0.1:7874
