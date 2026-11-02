@@ -1971,6 +1971,7 @@ api.pureapk.com
 api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
+api.themoviedb.org
 api.together.xyz
 api.viu.now.com
 api.waqi.info
@@ -28437,6 +28438,7 @@ toroporno.com
 torproject.org
 torrentgalaxy.to
 torrentkitty.tv
+torrentleech.org
 torrentleen.com
 torrentmac.net
 torrentprivacy.com
@@ -32672,6 +32674,7 @@ youtubei.googleapis.com
 youtubekids.com
 youtubemobilesupport.com
 youversion.com
+youversionapi.com
 youwin.com
 youwuss.com
 youx.xxx

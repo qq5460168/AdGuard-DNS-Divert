@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-01 11:21:54
+# 自动生成于 2026-11-02 11:31:19
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -68,7 +68,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33004 个域名，逐条规则）
+# 国外域名规则（共 33007 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -2043,6 +2043,7 @@ https://dns.alidns.com/dns-query
 [/api.recaptcha.net/]127.0.0.1:7874
 [/api.shuaiapi.com/]127.0.0.1:7874
 [/api.steampowered.com/]127.0.0.1:7874
+[/api.themoviedb.org/]127.0.0.1:7874
 [/api.together.xyz/]127.0.0.1:7874
 [/api.viu.now.com/]127.0.0.1:7874
 [/api.waqi.info/]127.0.0.1:7874
@@ -28490,6 +28491,7 @@ https://dns.alidns.com/dns-query
 [/torproject.org/]127.0.0.1:7874
 [/torrentgalaxy.to/]127.0.0.1:7874
 [/torrentkitty.tv/]127.0.0.1:7874
+[/torrentleech.org/]127.0.0.1:7874
 [/torrentleen.com/]127.0.0.1:7874
 [/torrentmac.net/]127.0.0.1:7874
 [/torrentprivacy.com/]127.0.0.1:7874
@@ -32721,6 +32723,7 @@ https://dns.alidns.com/dns-query
 [/youtubekids.com/]127.0.0.1:7874
 [/youtubemobilesupport.com/]127.0.0.1:7874
 [/youversion.com/]127.0.0.1:7874
+[/youversionapi.com/]127.0.0.1:7874
 [/youwin.com/]127.0.0.1:7874
 [/youwuss.com/]127.0.0.1:7874
 [/youx.xxx/]127.0.0.1:7874
