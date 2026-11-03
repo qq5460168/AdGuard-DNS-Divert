@@ -1,3 +1,1 @@
-tls://1.1.1.1:853
-tls://8e918b.dns.nextdns.io
-quic://8e918b.dns.nextdns.io
+127.0.0.1:7874
