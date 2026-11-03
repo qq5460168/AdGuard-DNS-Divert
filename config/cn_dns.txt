@@ -5,4 +5,3 @@
 192.168.8.1
 https://doh.pub/dns-query
 https://dns.alidns.com/dns-query
-

@@ -1,3 +1,7 @@
+hub.docker.com
+www.netflix.com
+openai.com
+x.com
 oxygenos.oneplus.net
 community.oneplus.com
 manus.im
