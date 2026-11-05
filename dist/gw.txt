@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-04 11:28:32
+# 自动生成于 2026-11-05 11:50:31
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33009 个域名，逐条规则）
+# 国外域名规则（共 33010 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -4096,6 +4096,7 @@ https://1.12.12.12/dns-query
 [/bili2.cc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bili888.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bili999.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/bilibili.tv/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/biliintl.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/bilinovel.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/biliplus.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
