@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-06 12:18:17
+# 自动生成于 2026-11-07 11:48:32
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -18447,7 +18447,6 @@ https://dns.alidns.com/dns-query
 [/maturewomenanal.com/]127.0.0.1:7874
 [/maturexxxvideos.cc/]127.0.0.1:7874
 [/mau.ac.uk/]127.0.0.1:7874
-[/maven.neoforged.net/]127.0.0.1:7874
 [/maven.org/]127.0.0.1:7874
 [/max.com/]127.0.0.1:7874
 [/maxgo.com/]127.0.0.1:7874
@@ -20409,6 +20408,7 @@ https://dns.alidns.com/dns-query
 [/neo-miracle.com/]127.0.0.1:7874
 [/neodaas.ac.uk/]127.0.0.1:7874
 [/neodb.social/]127.0.0.1:7874
+[/neoforged.net/]127.0.0.1:7874
 [/neonatalsociety.ac.uk/]127.0.0.1:7874
 [/neotokyo.supertop-100.com/]127.0.0.1:7874
 [/neow.in/]127.0.0.1:7874
