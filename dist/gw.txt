@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-20 12:56:30
+# 自动生成于 2026-11-21 12:52:01
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -69,7 +69,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33011 个域名，逐条规则）
+# 国外域名规则（共 33014 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -8901,6 +8901,7 @@ https://dns.alidns.com/dns-query
 [/ducere.ac.uk/]127.0.0.1:7874
 [/duchy.ac.uk/]127.0.0.1:7874
 [/duck/]127.0.0.1:7874
+[/duck.ai/]127.0.0.1:7874
 [/duck.co/]127.0.0.1:7874
 [/duck.com/]127.0.0.1:7874
 [/duckdns.org/]127.0.0.1:7874
@@ -11891,6 +11892,7 @@ https://dns.alidns.com/dns-query
 [/gameuxmasterguide.com/]127.0.0.1:7874
 [/gamez.com.tw/]127.0.0.1:7874
 [/gaming-notebooks.com/]127.0.0.1:7874
+[/gamma.app/]127.0.0.1:7874
 [/gamousa.com/]127.0.0.1:7874
 [/gandhara.ru/]127.0.0.1:7874
 [/gandi.net/]127.0.0.1:7874
@@ -26464,6 +26466,7 @@ https://dns.alidns.com/dns-query
 [/souka.xyz/]127.0.0.1:7874
 [/soul-plus.net/]127.0.0.1:7874
 [/soulcaliburhentai.net/]127.0.0.1:7874
+[/soulogic.com/]127.0.0.1:7874
 [/soumo.info/]127.0.0.1:7874
 [/sound-heritage.ac.uk/]127.0.0.1:7874
 [/soundcloud.com/]127.0.0.1:7874
