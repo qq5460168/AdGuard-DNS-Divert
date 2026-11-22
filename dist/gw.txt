@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-21 12:52:01
+# 自动生成于 2026-11-22 12:08:43
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -69,7 +69,7 @@ https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33014 个域名，逐条规则）
+# 国外域名规则（共 33012 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]127.0.0.1:7874
@@ -1247,12 +1247,10 @@ https://dns.alidns.com/dns-query
 [/ai/]127.0.0.1:7874
 [/ai-kan.net/]127.0.0.1:7874
 [/ai-wen.net/]127.0.0.1:7874
-[/ai.azure.com/]127.0.0.1:7874
 [/ai.binwang.me/]127.0.0.1:7874
 [/ai.com/]127.0.0.1:7874
 [/ai.dev/]127.0.0.1:7874
 [/ai.google/]127.0.0.1:7874
-[/ai.google.dev/]127.0.0.1:7874
 [/ai.studio/]127.0.0.1:7874
 [/ai3sd.ac.uk/]127.0.0.1:7874
 [/ai7995.site/]127.0.0.1:7874
@@ -1354,7 +1352,6 @@ https://dns.alidns.com/dns-query
 [/aisex.com/]127.0.0.1:7874
 [/aishegw.com/]127.0.0.1:7874
 [/aiss.anws.gov.tw/]127.0.0.1:7874
-[/aistudio.google.com/]127.0.0.1:7874
 [/ait.org.tw/]127.0.0.1:7874
 [/aiv-cdn.net/]127.0.0.1:7874
 [/aiv-delivery.net/]127.0.0.1:7874
@@ -2032,8 +2029,6 @@ https://dns.alidns.com/dns-query
 [/api-secure.recaptcha.net/]127.0.0.1:7874
 [/api-verify.recaptcha.net/]127.0.0.1:7874
 [/api.ai/]127.0.0.1:7874
-[/api.githubcopilot.com/]127.0.0.1:7874
-[/api.groq.com/]127.0.0.1:7874
 [/api.linksalpha.com/]127.0.0.1:7874
 [/api.mixpanel.com/]127.0.0.1:7874
 [/api.moomoobull.com/]127.0.0.1:7874
@@ -2046,7 +2041,6 @@ https://dns.alidns.com/dns-query
 [/api.shuaiapi.com/]127.0.0.1:7874
 [/api.steampowered.com/]127.0.0.1:7874
 [/api.themoviedb.org/]127.0.0.1:7874
-[/api.together.xyz/]127.0.0.1:7874
 [/api.viu.now.com/]127.0.0.1:7874
 [/api.waqi.info/]127.0.0.1:7874
 [/apiary.io/]127.0.0.1:7874
@@ -3318,7 +3312,6 @@ https://dns.alidns.com/dns-query
 [/bar/]127.0.0.1:7874
 [/baraero.com/]127.0.0.1:7874
 [/baramangaonline.com/]127.0.0.1:7874
-[/bard.google.com/]127.0.0.1:7874
 [/barefootnetworks.com/]127.0.0.1:7874
 [/barelist.com/]127.0.0.1:7874
 [/barenakedislam.com/]127.0.0.1:7874
@@ -6306,7 +6299,6 @@ https://dns.alidns.com/dns-query
 [/ch.shvoong.com/]127.0.0.1:7874
 [/ch9.ms/]127.0.0.1:7874
 [/chace.ac.uk/]127.0.0.1:7874
-[/challenges.cloudflare.com/]127.0.0.1:7874
 [/championshipseriesleague.com/]127.0.0.1:7874
 [/change.org/]127.0.0.1:7874
 [/changeip.name/]127.0.0.1:7874
@@ -6826,7 +6818,6 @@ https://dns.alidns.com/dns-query
 [/clickserve.cc-dt.com/]127.0.0.1:7874
 [/clickserver.googleads.com/]127.0.0.1:7874
 [/clien.net/]127.0.0.1:7874
-[/client-api.arkoselabs.com/]127.0.0.1:7874
 [/cliffcollege.ac.uk/]127.0.0.1:7874
 [/climate-lab-book.ac.uk/]127.0.0.1:7874
 [/climate-server.com/]127.0.0.1:7874
@@ -6943,6 +6934,7 @@ https://dns.alidns.com/dns-query
 [/cmi.org.tw/]127.0.0.1:7874
 [/cmmedia.com.tw/]127.0.0.1:7874
 [/cmoinc.org/]127.0.0.1:7874
+[/cmoney.tw/]127.0.0.1:7874
 [/cmp.hku.hk/]127.0.0.1:7874
 [/cmpaas.com/]127.0.0.1:7874
 [/cmpcp.ac.uk/]127.0.0.1:7874
@@ -7219,7 +7211,6 @@ https://dns.alidns.com/dns-query
 [/conscrypt.org/]127.0.0.1:7874
 [/conservatoiresuk.ac.uk/]127.0.0.1:7874
 [/consilience.ac.uk/]127.0.0.1:7874
-[/console.groq.com/]127.0.0.1:7874
 [/console.typesafe.ai/]127.0.0.1:7874
 [/constitutionalism.solutions/]127.0.0.1:7874
 [/constructware.com/]127.0.0.1:7874
@@ -7259,8 +7250,6 @@ https://dns.alidns.com/dns-query
 [/coova.net/]127.0.0.1:7874
 [/coova.org/]127.0.0.1:7874
 [/copac.ac.uk/]127.0.0.1:7874
-[/copilot-proxy.githubusercontent.com/]127.0.0.1:7874
-[/copilot.cloud.microsoft/]127.0.0.1:7874
 [/copilot.microsoft.com/]127.0.0.1:7874
 [/copim.ac.uk/]127.0.0.1:7874
 [/copior.ac.uk/]127.0.0.1:7874
@@ -10107,7 +10096,6 @@ https://dns.alidns.com/dns-query
 [/evchk.wikia.com/]127.0.0.1:7874
 [/evemodels.com/]127.0.0.1:7874
 [/even.stream/]127.0.0.1:7874
-[/events.statsigapi.net/]127.0.0.1:7874
 [/eventsinfocus.org/]127.0.0.1:7874
 [/everia.club/]127.0.0.1:7874
 [/everipedia.org/]127.0.0.1:7874
@@ -10787,7 +10775,6 @@ https://dns.alidns.com/dns-query
 [/feacebook.com/]127.0.0.1:7874
 [/feanonlinear.com/]127.0.0.1:7874
 [/featurecam.com/]127.0.0.1:7874
-[/featuregates.org/]127.0.0.1:7874
 [/fecbbok.com/]127.0.0.1:7874
 [/fecbooc.com/]127.0.0.1:7874
 [/fecbook.com/]127.0.0.1:7874
@@ -12089,14 +12076,12 @@ https://dns.alidns.com/dns-query
 [/gemfire.net/]127.0.0.1:7874
 [/gemfury.com/]127.0.0.1:7874
 [/gemini.com/]127.0.0.1:7874
-[/gemini.google.com/]127.0.0.1:7874
 [/gen.lib.rus.ec/]127.0.0.1:7874
 [/gen2.ac.uk/]127.0.0.1:7874
 [/gencraft.com/]127.0.0.1:7874
 [/gendai.net/]127.0.0.1:7874
 [/generated.photos/]127.0.0.1:7874
 [/generationpup.ac.uk/]127.0.0.1:7874
-[/generativelanguage.googleapis.com/]127.0.0.1:7874
 [/genesis.ac.uk/]127.0.0.1:7874
 [/genesys.ac.uk/]127.0.0.1:7874
 [/genet.ac.uk/]127.0.0.1:7874
@@ -12982,7 +12967,6 @@ https://dns.alidns.com/dns-query
 [/gray.ac.uk/]127.0.0.1:7874
 [/graylab.ac.uk/]127.0.0.1:7874
 [/grazie.ai/]127.0.0.1:7874
-[/grazie.aws.intellij.net/]127.0.0.1:7874
 [/grcb.ac.uk/]127.0.0.1:7874
 [/gre.ac.uk/]127.0.0.1:7874
 [/greasespot.net/]127.0.0.1:7874
@@ -13008,6 +12992,7 @@ https://dns.alidns.com/dns-query
 [/greatzhonghua.org/]127.0.0.1:7874
 [/gree/]127.0.0.1:7874
 [/greenbankcollege.ac.uk/]127.0.0.1:7874
+[/greenbean.media/]127.0.0.1:7874
 [/greenbuildingstudio.com/]127.0.0.1:7874
 [/greenend.org.uk/]127.0.0.1:7874
 [/greenfieldbookstore.com.hk/]127.0.0.1:7874
@@ -13884,10 +13869,12 @@ https://dns.alidns.com/dns-query
 [/hkci.org.hk/]127.0.0.1:7874
 [/hkcircleapp.com/]127.0.0.1:7874
 [/hkcitizenmedia.com/]127.0.0.1:7874
+[/hkcitycreation.com/]127.0.0.1:7874
 [/hkcmi.edu/]127.0.0.1:7874
 [/hkcnews.com/]127.0.0.1:7874
 [/hkcoc.com/]127.0.0.1:7874
 [/hkcoc.weather.com.hk/]127.0.0.1:7874
+[/hkcourtnews.com/]127.0.0.1:7874
 [/hkcsl.com/]127.0.0.1:7874
 [/hkctu.org.hk/]127.0.0.1:7874
 [/hkdailynews.com.hk/]127.0.0.1:7874
@@ -13903,6 +13890,7 @@ https://dns.alidns.com/dns-query
 [/hkf202311.site/]127.0.0.1:7874
 [/hkf202312.shop/]127.0.0.1:7874
 [/hkfaa.com/]127.0.0.1:7874
+[/hkfeature.com/]127.0.0.1:7874
 [/hkfreezone.com/]127.0.0.1:7874
 [/hkfront.org/]127.0.0.1:7874
 [/hkgalden.com/]127.0.0.1:7874
@@ -17380,6 +17368,7 @@ https://dns.alidns.com/dns-query
 [/lifemiles.com/]127.0.0.1:7874
 [/lifeselector.com/]127.0.0.1:7874
 [/lifesign.ac.uk/]127.0.0.1:7874
+[/lifesitenews.com/]127.0.0.1:7874
 [/lifestudy.ac.uk/]127.0.0.1:7874
 [/lifewire.com/]127.0.0.1:7874
 [/liftapp.ac.uk/]127.0.0.1:7874
@@ -18105,7 +18094,6 @@ https://dns.alidns.com/dns-query
 [/makeitopen.com/]127.0.0.1:7874
 [/makeitrealcontest.com/]127.0.0.1:7874
 [/makemymood.com/]127.0.0.1:7874
-[/makersuite.google.com/]127.0.0.1:7874
 [/makesenseofdata.com/]127.0.0.1:7874
 [/makingassessmentcount.ac.uk/]127.0.0.1:7874
 [/makingstartshere.com/]127.0.0.1:7874
@@ -18287,6 +18275,7 @@ https://dns.alidns.com/dns-query
 [/massagerepublic.com/]127.0.0.1:7874
 [/masseffect.com/]127.0.0.1:7874
 [/masseffectarchives.com/]127.0.0.1:7874
+[/master-insight.com/]127.0.0.1:7874
 [/mastercad.com/]127.0.0.1:7874
 [/mastercard-email.com/]127.0.0.1:7874
 [/mastercard.ae/]127.0.0.1:7874
@@ -18491,6 +18480,7 @@ https://dns.alidns.com/dns-query
 [/mbs-worldwide.ac.uk/]127.0.0.1:7874
 [/mbs.ac.uk/]127.0.0.1:7874
 [/mc/]127.0.0.1:7874
+[/mc.yandex.ru/]127.0.0.1:7874
 [/mc6.ac.uk/]127.0.0.1:7874
 [/mca.ac.uk/]127.0.0.1:7874
 [/mcadforums.com/]127.0.0.1:7874
@@ -19496,6 +19486,7 @@ https://dns.alidns.com/dns-query
 [/money-link.com.tw/]127.0.0.1:7874
 [/moneydj.com/]127.0.0.1:7874
 [/moneyhome.biz/]127.0.0.1:7874
+[/moneynet.com.tw/]127.0.0.1:7874
 [/moneyswift.online/]127.0.0.1:7874
 [/moneywithfacebook.com/]127.0.0.1:7874
 [/mongodb.com/]127.0.0.1:7874
@@ -19869,6 +19860,7 @@ https://dns.alidns.com/dns-query
 [/my/]127.0.0.1:7874
 [/my-enema.com/]127.0.0.1:7874
 [/my-formosa.com/]127.0.0.1:7874
+[/my-formosa.com.tw/]127.0.0.1:7874
 [/my-kualalumpur-1.myhuaweicloud.com/]127.0.0.1:7874
 [/my-magazine.me/]127.0.0.1:7874
 [/my-private-network.co.uk/]127.0.0.1:7874
@@ -21161,7 +21153,6 @@ https://dns.alidns.com/dns-query
 [/norwichresearchpark.ac.uk/]127.0.0.1:7874
 [/nos.nl/]127.0.0.1:7874
 [/note.com/]127.0.0.1:7874
-[/notebooklm.google.com/]127.0.0.1:7874
 [/notepad-plus-plus.org/]127.0.0.1:7874
 [/notion-static.com/]127.0.0.1:7874
 [/notion.com/]127.0.0.1:7874
@@ -21884,7 +21875,6 @@ https://dns.alidns.com/dns-query
 [/open.firstory.me/]127.0.0.1:7874
 [/open.spotify.com/]127.0.0.1:7874
 [/openai.com/]127.0.0.1:7874
-[/openaiapi-site.azureedge.net/]127.0.0.1:7874
 [/openallweb.com/]127.0.0.1:7874
 [/openamt.com/]127.0.0.1:7874
 [/openapi-quote.longbridge.cn/]127.0.0.1:7874
@@ -23759,6 +23749,7 @@ https://dns.alidns.com/dns-query
 [/pullfolio.com/]127.0.0.1:7874
 [/pullstring.net/]127.0.0.1:7874
 [/pulsebrowser.app/]127.0.0.1:7874
+[/pulsehknews.com/]127.0.0.1:7874
 [/punishbang.com/]127.0.0.1:7874
 [/punishworld.com/]127.0.0.1:7874
 [/punyu.com/]127.0.0.1:7874
@@ -25679,6 +25670,7 @@ https://dns.alidns.com/dns-query
 [/shambhalasun.com/]127.0.0.1:7874
 [/shameless.com/]127.0.0.1:7874
 [/shangfang.org/]127.0.0.1:7874
+[/shanghainationalparty.com/]127.0.0.1:7874
 [/shapelcounset.xyz/]127.0.0.1:7874
 [/shapeservices.com/]127.0.0.1:7874
 [/share-videos.se/]127.0.0.1:7874
@@ -27534,6 +27526,7 @@ https://dns.alidns.com/dns-query
 [/taiwannews.com.tw/]127.0.0.1:7874
 [/taiwanonline.cc/]127.0.0.1:7874
 [/taiwansex.tw/]127.0.0.1:7874
+[/taiwantoday.tw/]127.0.0.1:7874
 [/taiwantp.net/]127.0.0.1:7874
 [/taiwantt.org.tw/]127.0.0.1:7874
 [/taiwanus.net/]127.0.0.1:7874
@@ -27933,6 +27926,7 @@ https://dns.alidns.com/dns-query
 [/theclubprive.com/]127.0.0.1:7874
 [/theclyster.com/]127.0.0.1:7874
 [/thecobaltstudy.ac.uk/]127.0.0.1:7874
+[/thecollectivehk.com/]127.0.0.1:7874
 [/thecompaqstore.com/]127.0.0.1:7874
 [/thecontactpartnership.ac.uk/]127.0.0.1:7874
 [/theconversation.com/]127.0.0.1:7874
@@ -28016,6 +28010,7 @@ https://dns.alidns.com/dns-query
 [/thenextweb.com/]127.0.0.1:7874
 [/thenipslip.com/]127.0.0.1:7874
 [/theoca.ac.uk/]127.0.0.1:7874
+[/theonlinecitizen.com/]127.0.0.1:7874
 [/theopportunityproject.org/]127.0.0.1:7874
 [/thepaypalshop.com/]127.0.0.1:7874
 [/thepervs.com/]127.0.0.1:7874
@@ -28060,6 +28055,7 @@ https://dns.alidns.com/dns-query
 [/theskillsco.ac.uk/]127.0.0.1:7874
 [/thestandard.com.hk/]127.0.0.1:7874
 [/thestandnews.com/]127.0.0.1:7874
+[/thestar.com/]127.0.0.1:7874
 [/thestationbymaker.com/]127.0.0.1:7874
 [/thesun.co.uk/]127.0.0.1:7874
 [/thesun.ie/]127.0.0.1:7874
@@ -28087,6 +28083,7 @@ https://dns.alidns.com/dns-query
 [/theweek.in/]127.0.0.1:7874
 [/thewgo.org/]127.0.0.1:7874
 [/thewirechina.com/]127.0.0.1:7874
+[/thewitnesshk.com/]127.0.0.1:7874
 [/thewomenslibrary.ac.uk/]127.0.0.1:7874
 [/thewonderful101.com/]127.0.0.1:7874
 [/theync.com/]127.0.0.1:7874
@@ -31307,6 +31304,7 @@ https://dns.alidns.com/dns-query
 [/wolvcoll.ac.uk/]127.0.0.1:7874
 [/wolverhampton.ac.uk/]127.0.0.1:7874
 [/wolverhamptonline.ac.uk/]127.0.0.1:7874
+[/womany.net/]127.0.0.1:7874
 [/wombo.ai/]127.0.0.1:7874
 [/womensnikeshox.com/]127.0.0.1:7874
 [/womenwill.com/]127.0.0.1:7874
