@@ -1174,12 +1174,10 @@ ahxxx.club
 ai
 ai-kan.net
 ai-wen.net
-ai.azure.com
 ai.binwang.me
 ai.com
 ai.dev
 ai.google
-ai.google.dev
 ai.studio
 ai3sd.ac.uk
 ai7995.site
@@ -1281,7 +1279,6 @@ aisejushi.com
 aisex.com
 aishegw.com
 aiss.anws.gov.tw
-aistudio.google.com
 ait.org.tw
 aiv-cdn.net
 aiv-delivery.net
@@ -1959,8 +1956,6 @@ api-p.videomarket.jp
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.githubcopilot.com
-api.groq.com
 api.linksalpha.com
 api.mixpanel.com
 api.moomoobull.com
@@ -1973,7 +1968,6 @@ api.recaptcha.net
 api.shuaiapi.com
 api.steampowered.com
 api.themoviedb.org
-api.together.xyz
 api.viu.now.com
 api.waqi.info
 apiary.io
@@ -3246,7 +3240,6 @@ banorte.com
 bar
 baraero.com
 baramangaonline.com
-bard.google.com
 barefootnetworks.com
 barelist.com
 barenakedislam.com
@@ -6237,7 +6230,6 @@ ch
 ch.shvoong.com
 ch9.ms
 chace.ac.uk
-challenges.cloudflare.com
 championshipseriesleague.com
 change.org
 changeip.name
@@ -6757,7 +6749,6 @@ clickedu.co.uk
 clickserve.cc-dt.com
 clickserver.googleads.com
 clien.net
-client-api.arkoselabs.com
 cliffcollege.ac.uk
 climate-lab-book.ac.uk
 climate-server.com
@@ -6874,6 +6865,7 @@ cmhalq.com
 cmi.org.tw
 cmmedia.com.tw
 cmoinc.org
+cmoney.tw
 cmp.hku.hk
 cmpaas.com
 cmpcp.ac.uk
@@ -7150,7 +7142,6 @@ conscrypt.com
 conscrypt.org
 conservatoiresuk.ac.uk
 consilience.ac.uk
-console.groq.com
 console.typesafe.ai
 constitutionalism.solutions
 constructware.com
@@ -7190,8 +7181,6 @@ coova.com
 coova.net
 coova.org
 copac.ac.uk
-copilot-proxy.githubusercontent.com
-copilot.cloud.microsoft
 copilot.microsoft.com
 copim.ac.uk
 copior.ac.uk
@@ -10039,7 +10028,6 @@ evanottyvideos.com
 evchk.wikia.com
 evemodels.com
 even.stream
-events.statsigapi.net
 eventsinfocus.org
 everia.club
 everipedia.org
@@ -10719,7 +10707,6 @@ feacbooke.com
 feacebook.com
 feanonlinear.com
 featurecam.com
-featuregates.org
 fecbbok.com
 fecbooc.com
 fecbook.com
@@ -12021,14 +12008,12 @@ gem.ac.uk
 gemfire.net
 gemfury.com
 gemini.com
-gemini.google.com
 gen.lib.rus.ec
 gen2.ac.uk
 gencraft.com
 gendai.net
 generated.photos
 generationpup.ac.uk
-generativelanguage.googleapis.com
 genesis.ac.uk
 genesys.ac.uk
 genet.ac.uk
@@ -12915,7 +12900,6 @@ gravitytank.com
 gray.ac.uk
 graylab.ac.uk
 grazie.ai
-grazie.aws.intellij.net
 grcb.ac.uk
 gre.ac.uk
 greasespot.net
@@ -12941,6 +12925,7 @@ greatwesternresearch.ac.uk
 greatzhonghua.org
 gree
 greenbankcollege.ac.uk
+greenbean.media
 greenbuildingstudio.com
 greenend.org.uk
 greenfieldbookstore.com.hk
@@ -13817,10 +13802,12 @@ hkchurch.org
 hkci.org.hk
 hkcircleapp.com
 hkcitizenmedia.com
+hkcitycreation.com
 hkcmi.edu
 hkcnews.com
 hkcoc.com
 hkcoc.weather.com.hk
+hkcourtnews.com
 hkcsl.com
 hkctu.org.hk
 hkdailynews.com.hk
@@ -13836,6 +13823,7 @@ hkf2023.lat
 hkf202311.site
 hkf202312.shop
 hkfaa.com
+hkfeature.com
 hkfreezone.com
 hkfront.org
 hkgalden.com
@@ -17315,6 +17303,7 @@ lifelonglearning.ac.uk
 lifemiles.com
 lifeselector.com
 lifesign.ac.uk
+lifesitenews.com
 lifestudy.ac.uk
 lifewire.com
 liftapp.ac.uk
@@ -18041,7 +18030,6 @@ makeeu.com
 makeitopen.com
 makeitrealcontest.com
 makemymood.com
-makersuite.google.com
 makesenseofdata.com
 makingassessmentcount.ac.uk
 makingstartshere.com
@@ -18223,6 +18211,7 @@ massage-in-taipei.com
 massagerepublic.com
 masseffect.com
 masseffectarchives.com
+master-insight.com
 mastercad.com
 mastercard-email.com
 mastercard.ae
@@ -18427,6 +18416,7 @@ mbro.ac.uk
 mbs-worldwide.ac.uk
 mbs.ac.uk
 mc
+mc.yandex.ru
 mc6.ac.uk
 mca.ac.uk
 mcadforums.com
@@ -19432,6 +19422,7 @@ mondex.org
 money-link.com.tw
 moneydj.com
 moneyhome.biz
+moneynet.com.tw
 moneyswift.online
 moneywithfacebook.com
 mongodb.com
@@ -19806,6 +19797,7 @@ mxshm.site
 my
 my-enema.com
 my-formosa.com
+my-formosa.com.tw
 my-kualalumpur-1.myhuaweicloud.com
 my-magazine.me
 my-private-network.co.uk
@@ -21098,7 +21090,6 @@ northumbria.ac.uk
 norwichresearchpark.ac.uk
 nos.nl
 note.com
-notebooklm.google.com
 notepad-plus-plus.org
 notion-static.com
 notion.com
@@ -21821,7 +21812,6 @@ open.com.hk
 open.firstory.me
 open.spotify.com
 openai.com
-openaiapi-site.azureedge.net
 openallweb.com
 openamt.com
 openapi-quote.longbridge.cn
@@ -23696,6 +23686,7 @@ pullfolio.co
 pullfolio.com
 pullstring.net
 pulsebrowser.app
+pulsehknews.com
 punishbang.com
 punishworld.com
 punyu.com
@@ -25619,6 +25610,7 @@ shambalapost.com
 shambhalasun.com
 shameless.com
 shangfang.org
+shanghainationalparty.com
 shapelcounset.xyz
 shapeservices.com
 share-videos.se
@@ -27476,6 +27468,7 @@ taiwanncf.org.tw
 taiwannews.com.tw
 taiwanonline.cc
 taiwansex.tw
+taiwantoday.tw
 taiwantp.net
 taiwantt.org.tw
 taiwanus.net
@@ -27876,6 +27869,7 @@ theclub.com.hk
 theclubprive.com
 theclyster.com
 thecobaltstudy.ac.uk
+thecollectivehk.com
 thecompaqstore.com
 thecontactpartnership.ac.uk
 theconversation.com
@@ -27959,6 +27953,7 @@ thenewslens.com
 thenextweb.com
 thenipslip.com
 theoca.ac.uk
+theonlinecitizen.com
 theopportunityproject.org
 thepaypalshop.com
 thepervs.com
@@ -28003,6 +27998,7 @@ thesimssocial.com
 theskillsco.ac.uk
 thestandard.com.hk
 thestandnews.com
+thestar.com
 thestationbymaker.com
 thesun.co.uk
 thesun.ie
@@ -28030,6 +28026,7 @@ theweek.com
 theweek.in
 thewgo.org
 thewirechina.com
+thewitnesshk.com
 thewomenslibrary.ac.uk
 thewonderful101.com
 theync.com
@@ -31256,6 +31253,7 @@ wolterskluwer.com
 wolvcoll.ac.uk
 wolverhampton.ac.uk
 wolverhamptonline.ac.uk
+womany.net
 wombo.ai
 womensnikeshox.com
 womenwill.com

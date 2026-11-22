@@ -1,5 +1,5 @@
 # AdGuard Home DNS 分流配置 - 黑名单模式（逐条规则）
-# 自动生成于 2026-11-21 12:23:26
+# 自动生成于 2026-11-22 11:38:22
 # 黑名单模式：命中国外域名走国外DNS，其他走国内DNS
 # 包含自定义域名DNS规则
 
@@ -64,7 +64,7 @@ https://1.12.12.12/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 
 #==================================================
-# 国外域名规则（共 33014 个域名，逐条规则）
+# 国外域名规则（共 33012 个域名，逐条规则）
 # 已排除 18 个自定义DNS域名（含通配符模糊覆盖）
 #==================================================
 [/000webhost.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -1242,12 +1242,10 @@ https://1.12.12.12/dns-query
 [/ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai-kan.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai-wen.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/ai.azure.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai.binwang.me/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai.dev/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai.google/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/ai.google.dev/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai.studio/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai3sd.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ai7995.site/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -1349,7 +1347,6 @@ https://1.12.12.12/dns-query
 [/aisex.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/aishegw.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/aiss.anws.gov.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/aistudio.google.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ait.org.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/aiv-cdn.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/aiv-delivery.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -2027,8 +2024,6 @@ https://1.12.12.12/dns-query
 [/api-secure.recaptcha.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api-verify.recaptcha.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/api.githubcopilot.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/api.groq.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.linksalpha.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.mixpanel.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.moomoobull.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -2041,7 +2036,6 @@ https://1.12.12.12/dns-query
 [/api.shuaiapi.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.steampowered.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.themoviedb.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/api.together.xyz/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.viu.now.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/api.waqi.info/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/apiary.io/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -3313,7 +3307,6 @@ https://1.12.12.12/dns-query
 [/bar/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/baraero.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/baramangaonline.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/bard.google.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/barefootnetworks.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/barelist.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/barenakedislam.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -6301,7 +6294,6 @@ https://1.12.12.12/dns-query
 [/ch.shvoong.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/ch9.ms/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/chace.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/challenges.cloudflare.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/championshipseriesleague.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/change.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/changeip.name/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -6821,7 +6813,6 @@ https://1.12.12.12/dns-query
 [/clickserve.cc-dt.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/clickserver.googleads.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/clien.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/client-api.arkoselabs.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cliffcollege.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/climate-lab-book.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/climate-server.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -6938,6 +6929,7 @@ https://1.12.12.12/dns-query
 [/cmi.org.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cmmedia.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cmoinc.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/cmoney.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cmp.hku.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cmpaas.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/cmpcp.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -7214,7 +7206,6 @@ https://1.12.12.12/dns-query
 [/conscrypt.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/conservatoiresuk.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/consilience.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/console.groq.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/console.typesafe.ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/constitutionalism.solutions/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/constructware.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -7254,8 +7245,6 @@ https://1.12.12.12/dns-query
 [/coova.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/coova.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/copac.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/copilot-proxy.githubusercontent.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/copilot.cloud.microsoft/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/copilot.microsoft.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/copim.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/copior.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -10102,7 +10091,6 @@ https://1.12.12.12/dns-query
 [/evchk.wikia.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/evemodels.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/even.stream/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/events.statsigapi.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/eventsinfocus.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/everia.club/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/everipedia.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -10782,7 +10770,6 @@ https://1.12.12.12/dns-query
 [/feacebook.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/feanonlinear.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/featurecam.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/featuregates.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/fecbbok.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/fecbooc.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/fecbook.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -12084,14 +12071,12 @@ https://1.12.12.12/dns-query
 [/gemfire.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gemfury.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gemini.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/gemini.google.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gen.lib.rus.ec/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gen2.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gencraft.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gendai.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/generated.photos/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/generationpup.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/generativelanguage.googleapis.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/genesis.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/genesys.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/genet.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -12977,7 +12962,6 @@ https://1.12.12.12/dns-query
 [/gray.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/graylab.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/grazie.ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/grazie.aws.intellij.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/grcb.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gre.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/greasespot.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -13003,6 +12987,7 @@ https://1.12.12.12/dns-query
 [/greatzhonghua.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/gree/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/greenbankcollege.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/greenbean.media/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/greenbuildingstudio.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/greenend.org.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/greenfieldbookstore.com.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -13879,10 +13864,12 @@ https://1.12.12.12/dns-query
 [/hkci.org.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcircleapp.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcitizenmedia.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/hkcitycreation.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcmi.edu/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcnews.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcoc.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcoc.weather.com.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/hkcourtnews.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkcsl.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkctu.org.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkdailynews.com.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -13898,6 +13885,7 @@ https://1.12.12.12/dns-query
 [/hkf202311.site/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkf202312.shop/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkfaa.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/hkfeature.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkfreezone.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkfront.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/hkgalden.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -17375,6 +17363,7 @@ https://1.12.12.12/dns-query
 [/lifemiles.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/lifeselector.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/lifesign.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/lifesitenews.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/lifestudy.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/lifewire.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/liftapp.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -18100,7 +18089,6 @@ https://1.12.12.12/dns-query
 [/makeitopen.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/makeitrealcontest.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/makemymood.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/makersuite.google.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/makesenseofdata.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/makingassessmentcount.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/makingstartshere.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -18282,6 +18270,7 @@ https://1.12.12.12/dns-query
 [/massagerepublic.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/masseffect.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/masseffectarchives.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/master-insight.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mastercad.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mastercard-email.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mastercard.ae/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -18486,6 +18475,7 @@ https://1.12.12.12/dns-query
 [/mbs-worldwide.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mbs.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/mc.yandex.ru/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mc6.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mca.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mcadforums.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19491,6 +19481,7 @@ https://1.12.12.12/dns-query
 [/money-link.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moneydj.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moneyhome.biz/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/moneynet.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moneyswift.online/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/moneywithfacebook.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/mongodb.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -19864,6 +19855,7 @@ https://1.12.12.12/dns-query
 [/my/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/my-enema.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/my-formosa.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/my-formosa.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/my-kualalumpur-1.myhuaweicloud.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/my-magazine.me/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/my-private-network.co.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -21156,7 +21148,6 @@ https://1.12.12.12/dns-query
 [/norwichresearchpark.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/nos.nl/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/note.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/notebooklm.google.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/notepad-plus-plus.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/notion-static.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/notion.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -21879,7 +21870,6 @@ https://1.12.12.12/dns-query
 [/open.firstory.me/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/open.spotify.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/openai.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
-[/openaiapi-site.azureedge.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/openallweb.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/openamt.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/openapi-quote.longbridge.cn/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -23754,6 +23744,7 @@ https://1.12.12.12/dns-query
 [/pullfolio.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pullstring.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/pulsebrowser.app/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/pulsehknews.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/punishbang.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/punishworld.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/punyu.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -25674,6 +25665,7 @@ https://1.12.12.12/dns-query
 [/shambhalasun.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/shameless.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/shangfang.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/shanghainationalparty.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/shapelcounset.xyz/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/shapeservices.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/share-videos.se/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -27529,6 +27521,7 @@ https://1.12.12.12/dns-query
 [/taiwannews.com.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/taiwanonline.cc/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/taiwansex.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/taiwantoday.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/taiwantp.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/taiwantt.org.tw/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/taiwanus.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -27928,6 +27921,7 @@ https://1.12.12.12/dns-query
 [/theclubprive.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/theclyster.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thecobaltstudy.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/thecollectivehk.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thecompaqstore.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thecontactpartnership.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/theconversation.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -28011,6 +28005,7 @@ https://1.12.12.12/dns-query
 [/thenextweb.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thenipslip.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/theoca.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/theonlinecitizen.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/theopportunityproject.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thepaypalshop.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thepervs.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -28055,6 +28050,7 @@ https://1.12.12.12/dns-query
 [/theskillsco.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thestandard.com.hk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thestandnews.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/thestar.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thestationbymaker.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thesun.co.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thesun.ie/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -28082,6 +28078,7 @@ https://1.12.12.12/dns-query
 [/theweek.in/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thewgo.org/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thewirechina.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/thewitnesshk.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thewomenslibrary.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/thewonderful101.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/theync.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
@@ -31302,6 +31299,7 @@ https://1.12.12.12/dns-query
 [/wolvcoll.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/wolverhampton.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/wolverhamptonline.ac.uk/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
+[/womany.net/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/wombo.ai/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/womensnikeshox.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
 [/womenwill.com/]tls://1.1.1.1:853 tls://8e918b.dns.nextdns.io quic://8e918b.dns.nextdns.io
